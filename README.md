@@ -7,7 +7,7 @@ Hello! I'm Michael, a data analyst with a passion for uncovering actionable insi
 - **Programming Languages:** Python, R, SQL
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL
 - **Tools:** Jupyter Notebook, Git, Excel
 
 ## Projects
