@@ -1,0 +1,5 @@
+title: My Website
+description: Welcome to my website!
+theme: jekyll-theme-cayman
+baseurl: "" # Leave empty for personal site
+url: "https://awesome-hubdata.github.io"
